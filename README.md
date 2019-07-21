@@ -11,4 +11,5 @@ Explainable AI (XAI) deals with explaining how an AI works. Here the AI is ML.
 This is a propositional paper, mostly dealing with the role of Fuzzy Rule Based Systems (FRBS) in XAI. A FRBS is per se no explainable, but they refer that using multi-objective evolutionary techniques, the system can optimized for interpretability. They define two views on interpretability:
 * Understandability: We are able to understand how the algorithm works (makes its inference)
 * Comprehensibility: We are able to understand the model.
-FRBS is argued to complement both views.
+
+FRBS is argued to be a good match for both. It has low accuracy today, but is among the most explainable, so focus should be to improve accuracy and maintaining the position ahead on interpretability.
