@@ -22,4 +22,4 @@ Surveys categories of XAI found in literature. Visual and textual explanations d
 * Incomplete constraints -- the models do not consider some kinds of real-world constraints.
 * Noisy training data -- we can have incorrect "ground truth" to deal with (garbage-in garbage-out problem)
 
-[./images/survey-medical-xai.png]
+![survey-medical-ai.png](./images/survey-medical-xai.png)
